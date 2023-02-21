@@ -1,0 +1,27 @@
+.grid-data{
+   /* width: auto;
+   height: auto; */
+ 
+    display: grid ;
+    grid-template-columns: repeat(4,1fr);
+    gap: 20px;
+    margin-top: 20px;
+    
+}
+.data{
+    width: 250px;
+    height: 100px;
+    background-color: white;
+    border-radius: 5px;
+   
+}
+.icon{
+    margin-top: 60px;
+    margin-left: 13px;
+}
+
+.input-1{
+    height: auto;
+    padding: 10px;
+    width: auto;
+}

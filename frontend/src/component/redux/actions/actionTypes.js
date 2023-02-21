@@ -1,0 +1,5 @@
+export const ADDNEW_NOTE="ADDNEW_NOTE"
+export const GETALL_NOTE="GETALL_NOTE"
+export const UPDATE_NOTE="UPDATE_NOTE"
+export const DELETE_NOTE="DELETE_NOTE"
+
